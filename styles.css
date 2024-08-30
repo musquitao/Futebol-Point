@@ -1,0 +1,29 @@
+body {
+    margin: 5px;
+    margin-bottom: 100px;
+background: gray;
+color: black;
+}
+
+header{
+    border: solid 5px black;
+    font-size:40px;
+    padding: 10px;
+    color:white;
+    background: black;
+    display: flex;
+    justify-content: center;
+}
+.titulo{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+.texto {
+    font-size: 21px;
+}
+img{
+    height: 200px;
+    margin: 20px;
+
+}
